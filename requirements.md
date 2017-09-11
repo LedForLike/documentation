@@ -1,14 +1,26 @@
 # Requirements
 
-## Accounts requirements
+Those are requirements in order to participate in labs. You should start dealing with them ASAP, so if you have an issue
+you will have time to resolve them before labs start. 
 
-Those accounts needs to be setup in advance.
+## Installed on your PC
+
+Make sure that you have the following tools installed on your PC:
+
+1. [Postman](https://www.getpostman.com/)
+2. Python 3+
+3. [VS Code](https://code.visualstudio.com/)
+
+
+## Accounts 
+
+Those accounts needs to be setup.
 
 ### GitHub  
 
 1. Head to [GitHub](https://github.com/) and sign up for new account
 1. Confirm your account in email
-1. [Set up Git](https://help.github.com/articles/set-up-git/) to work on your PC
+1. [Set up Git](https://help.github.com/articles/set-up-git/) to work on your PC. This means that you will need to install Git client on your PC.
 
 ### Heroku 
 
@@ -31,10 +43,3 @@ Those accounts needs to be setup in advance.
 1. Pick *Page* and click on *Subscribe to this topic*
 1. Fill in *Callback URL* `https://requestb.in/pcmd4epc` and in *Verify Token* some random string
 
-## Installed on your PC
-
-Make sure that you have the following tools installed on your PC:
-
-1. [Postman](https://www.getpostman.com/)
-2. Python 3+
-3. [VS Code](https://code.visualstudio.com/)
