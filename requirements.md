@@ -28,7 +28,7 @@ Those accounts needs to be setup.
 1. Confirm your account in email
 
 ### CloudMQTT 
-1. Head to [Heroku](https://www.cloudmqtt.com/plans.html/) 
+1. Head to [CloudMQTT](https://www.cloudmqtt.com/plans.html/) 
 1. Click on *Try now for Free* under "Cute Cat" plan
 1. Enter your email address and click on the link you will receive in email
 1. Fill the details and click on submit
