@@ -9,5 +9,5 @@
 1. Go to https://developers.facebook.com/tools/explorer
 1. Right top corner pick a relevant app
 1. On right side of *Access Token* select a relevant page
-1. In the endpoint field switch to *POST* method and in URL fill `[YOUR PAGE ID]/subscribed_apps`. You can fin page id either in URL of the page or in *About* section of page
+1. In the endpoint field switch to *POST* method and in URL fill `[YOUR PAGE ID]/subscribed_apps`. You can find page id either in URL of the page or in *About* section of page
 1. Click submit
